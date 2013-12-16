@@ -24,7 +24,6 @@
         <processorPath useClasspath="true" />
         <module name="cruxed" />
         <module name="onsail" />
-        <module name="unicorn" />
       </profile>
     </annotationProcessing>
   </component>

@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NA.iml" filepath="$PROJECT_DIR$/NA.iml" />
       <module fileurl="file://$PROJECT_DIR$/cruxed/cruxed.iml" filepath="$PROJECT_DIR$/cruxed/cruxed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onsail/onsail.iml" filepath="$PROJECT_DIR$/onsail/onsail.iml" />
-      <module fileurl="file://$PROJECT_DIR$/unicorn/unicorn.iml" filepath="$PROJECT_DIR$/unicorn/unicorn.iml" />
     </modules>
   </component>
 </project>
